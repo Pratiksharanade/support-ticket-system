@@ -1,0 +1,75 @@
+/* Shared container to align navbar and table */
+.admin-dashboard-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+/* Navbar styling */
+.admin-navbar {
+    width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+  padding: 12px 100px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  margin-bottom: 24px;
+}
+
+/* Logout button */
+.logout-btn {
+  background-color: #e74c3c;
+  border: none;
+  color: white;
+  padding: 8px 16px;
+  font-size: 0.95rem;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.logout-btn:hover {
+  background-color: #c0392b;
+}
+
+/* Ticket table styling */
+.ticket-table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.ticket-table thead {
+  background-color: #3498db;
+  color: rgb(105, 100, 187);
+}
+
+.ticket-table th,
+.ticket-table td {
+  padding: 12px 16px;
+  border-bottom: 1px solid #eee;
+  text-align: left;
+}
+
+.ticket-table tbody tr:hover {
+  background-color: #f5f9fc;
+}
+
+.ticket-table button {
+  padding: 6px 12px;
+  font-size: 0.9rem;
+  background-color: #27ae60;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.ticket-table button:hover {
+  background-color: #219150;
+}
