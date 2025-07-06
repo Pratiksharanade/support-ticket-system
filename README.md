@@ -28,12 +28,14 @@ A full-stack support ticket system built with the MERN stack (MongoDB, Express.j
    npm install  
    node server.js
 
-![3](https://github.com/user-attachments/assets/3cf362a1-f3c5-462d-a0db-7d5d0c46f63c)
-![7](https://github.com/user-attachments/assets/966a2d97-c458-4fab-9f9b-e9e1e600149e)
 
-![6](https://github.com/user-attachments/assets/0aca7674-0cb6-468e-a31c-3541f27faa6b)
 ![1](https://github.com/user-attachments/assets/e0025682-e352-4932-83ef-4f29a1087b24)
 
 ![2](https://github.c![5](https://github.com/user-attachments/assets/320fba25-dd0c-4b7b-8f84-80f82e959802)
 om/user-attachments/assets/4a820f8d-9043-4787-9218-ebba6977f99d)
+![3](https://github.com/user-attachments/assets/3cf362a1-f3c5-462d-a0db-7d5d0c46f63c)
+![7](https://github.com/user-attachments/assets/966a2d97-c458-4fab-9f9b-e9e1e600149e)
+
+![6](https://github.com/user-attachments/assets/0aca7674-0cb6-468e-a31c-3541f27faa6b)
+
 
